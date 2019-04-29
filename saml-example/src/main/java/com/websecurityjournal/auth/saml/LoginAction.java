@@ -15,9 +15,7 @@ import com.onelogin.saml2.exception.Error;
 import com.onelogin.saml2.exception.SettingsException;
 
 /**
- * This is the action for verifying federation setting for a customer. This
- * action is invoked to test the identity provider setting without modifying the
- * current setup.
+ * This is the action for making a SAML request.
  *
  * @author varun
  */
